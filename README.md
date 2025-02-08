@@ -1,4 +1,5 @@
 # tartanhacks25
+<<<<<<< HEAD
 
 ## Team Name: Win
 
@@ -9,3 +10,6 @@
 ## Project Description:
 
 ## Project Link:
+=======
+# Alex Lee
+>>>>>>> 6f6fa5dc51299f8e827d215bc182ad66350ecbc8
